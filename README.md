@@ -1,65 +1,37 @@
-# 👋 Olá! Eu sou o Gabriel Castro
+# 👋 Olá!
 
-💻 **Desenvolvedor Backend | Node.js | TypeScript**
- 
-Atualmente, foco em **desenvolvimento backend**, criando **APIs escaláveis**, **serviços integrados** e **sistemas sólidos** com **Node.js** e **TypeScript**.
+💻 **Desenvolvedor Backend | Node.js | TypeScript | APIs REST**
+
+Gosto de criar soluções que realmente ajudam pessoas e negócios, com foco em **performance**, **organização** e **boas práticas**.  
+Atualmente desenvolvo APIs e serviços backend usando **Node.js**, **Express** e **TypeScript**.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Tecnologias que uso
 
-### 💾 Backend
-- **Node.js**, **Express**, **Fastify**
-- **TypeScript**, **JavaScript (ES6+)**
-- **RESTful APIs**, **GraphQL**
-- **JWT**, **bcrypt**, **Zod**, **Yup**
-
-### 🗄️ Banco de Dados
-- **PostgreSQL**, **MySQL**, **SQLite**
-- **TypeORM**, **Knex**
-
-### ⚙️ Testes & Qualidade
-- **Jest**
-- **ESLint**, **Prettier**
-
-### ☁️ DevOps / Ferramentas
-- **Docker**, **Git**, **GitHub Actions**
-- **Postman**, **Insomnia**, **Swagger**
-- **Linux**, **VSCode**
+- **Node.js** • **TypeScript** • **Express**
+- **PostgreSQL** • **Prisma** • **Docker**
+- **JWT** • **Zod** • **Jest**
+- **Git** • **Linux** • **VSCode**
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabdecastro&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabdecastro&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielCastro&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCastro&layout=compact&theme=tokyonight" />
 </div>
 
 ---
 
-## 🌱 O que estou estudando atualmente
+## 🌱 Atualmente estudando
 
-- Arquitetura de microsserviços  
-- Integrações com filas (RabbitMQ / Kafka)  
+- Microsserviços e mensageria (RabbitMQ / Kafka)  
 - Testes automatizados e CI/CD  
-- Boas práticas de Clean Architecture e SOLID  
+- Clean Architecture e princípios SOLID  
 
 ---
 
-## 🧠 Sobre mim
-
-- 🎯 Gosto de resolver problemas complexos com soluções simples e bem estruturadas.  
-- 💬 Adoro aprender e compartilhar conhecimento sobre desenvolvimento backend.  
-- 📚 Sempre em busca de melhorar a performance, a segurança e a escalabilidade das aplicações.
-
----
-
-## 📫 Como me encontrar
-
-📧 **Email:** [gabrielcastro@email.com](mailto:gabrielcastrog2@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/gabrielcastro](https://linkedin.com/in/gabrielcastroo)  
-🐙 **GitHub:** [github.com/GabrielCastro](https://github.com/gabdecastro)
-
----
-
+📫 **Contato:**  
+[LinkedIn](https://linkedin.com/in/gabrielcastro) • [GitHub](https://github.com/GabrielCastro)
