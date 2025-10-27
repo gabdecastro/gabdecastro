@@ -10,10 +10,6 @@ Atualmente desenvolvo APIs e serviços backend usando **Node.js**, **Express** e
 - **JWT** • **Zod** • **Jest**
 - **Git** • **Linux** • **VSCode**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabdecastro&theme=redical" height="150" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <div align="left">
