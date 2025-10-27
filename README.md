@@ -1,7 +1,7 @@
 💻 **Desenvolvedor Backend | Node.js | TypeScript | APIs REST**
 
 Gosto de criar soluções que realmente ajudam pessoas e negócios, com foco em **performance**, **organização** e **boas práticas**.  
-Atualmente desenvolvo APIs e serviços backend usando **Node.js**, **Express** e **TypeScript**.
+Atualmente desenvolvo serviços backend usando **Node.js**, **Express** e **TypeScript**.
 
 ---
 
