@@ -1,4 +1,4 @@
-💻 **Desenvolvedor Backend | Node.js | TypeScriptT**
+💻 **Desenvolvedor Backend | Node.js | TypeScript**
 
 Gosto de criar soluções que realmente ajudam pessoas e negócios, com foco em **performance**, **organização** e **boas práticas**.  
 Atualmente desenvolvo serviços backend usando **Node.js**, **Express** e **TypeScript**.
