@@ -5,11 +5,6 @@ Atualmente desenvolvo serviços backend usando **Node.js**, **Express** e **Type
 
 ---
 
-- **Node.js** • **TypeScript** • **Express**
-- **PostgreSQL** • **Prisma** • **Docker**
-- **JWT** • **Zod** • **Jest**
-- **Git** • **Linux** • **VSCode**
-
 ###
 
 <div align="left">
